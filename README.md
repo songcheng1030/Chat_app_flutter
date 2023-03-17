@@ -1,1 +1,2 @@
-# Chat_app_flutter
+# Flutter Chat App
+
